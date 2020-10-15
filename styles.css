@@ -20,7 +20,7 @@ html {
     line-height: 1.375rem;
     color: #333;
     font-weight: 400;
-    font-family: UHCSans,Helvetica,Arial,sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,UHCSans,Helvetica,Arial,sans-serif;
 }
 body {
     font-size: 1rem;
