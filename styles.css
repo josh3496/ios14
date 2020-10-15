@@ -27,3 +27,8 @@ body {
     line-height: 1.375rem;
     font-weight: 500;
 }
+h1 {
+    font-size: 2.25rem;
+    line-height: 2.875remp;
+    font-weight: 600;
+}
