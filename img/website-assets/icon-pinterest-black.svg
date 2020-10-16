@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Share" transform="translate(-119.000000, 0.000000)" fill-rule="nonzero">
+            <g id="iconfinder_15_939745" transform="translate(119.000000, 0.000000)">
+                <path d="M22,0 L2,0 C0.9,0 0,0.9 0,2 L0,22 C0,23.1 0.9,24 2,24 L22,24 C23.1,24 24,23.1 24,22 L24,2 C24,0.9 23.1,0 22,0 Z" id="Path" fill="#000000"></path>
+                <path d="M12.5,4.5 C8.4,4.5 6,7.55 6,10 C6,11.5 7,13 7.5,13 C8,13 8.5,13 8.5,12.5 C8.5,12 7.5,11.5 7.5,10 C7.5,7.8 9.9,6 12.5,6 C14.8,6 16,7.6 16,9.5 C16,12 14.65,14 13,14 C12.1,14 11.3,13.4 11.5,12.5 C11.75,11.4 12,11.5 12.5,9.5 C12.65,8.8 12.3,8 11.5,8 C10.6,8 9.5,8.7 9.5,10 C9.5,10.8 10,11.5 10,11.5 C10,11.5 8.9,15.45 8.7,16.15 C8.4,17.5 7.95,19.5 8.45,19.5 C8.95,19.5 9.5,18.5 10.5,16 C10.65,15.65 11,14.5 11,14.5 C11.3,15.05 12.55,15.5 13.5,15.5 C16.25,15.5 18,12.9 18,9.5 C18,6.95 15.8,4.5 12.5,4.5 Z" id="P_2_" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

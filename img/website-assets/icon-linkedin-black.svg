@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Components/Share" transform="translate(-154.000000, 0.000000)" fill="#000000">
+            <path d="M174,19 L171,19 L171,13.4 C171,10 167,10.3 167,13.4 L167,19 L164,19 L164,8 L167,8 L167,9.8 C168.4,7.2 174,7 174,12.3 L174,19 Z M160.5,6.7 C159.5,6.7 158.7,5.9 158.7,4.9 C158.7,3.9 159.5,3.1 160.5,3.1 C161.5,3.1 162.2,4 162.2,5 C162.2,6 161.5,6.7 160.5,6.7 L160.5,6.7 Z M159,19 L162,19 L162,8 L159,8 L159,19 Z M173,0 L159,0 C156.2,0 154,2.2 154,5 L154,19 C154,21.8 156.2,24 159,24 L173,24 C175.8,24 178,21.8 178,19 L178,5 C178,2.2 175.8,0 173,0 L173,0 Z" id="Fill-1"></path>
+        </g>
+    </g>
+</svg>
