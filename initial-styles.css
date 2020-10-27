@@ -4,7 +4,8 @@
 .flex-center{display:flex;-ms-display:flex;-moz-display:flex;-webkit-display:flex;align-items:center;-ms-align-items:center;-moz-align-items:center;-webkit-align-items:center}
 .left-0{left:0}
 .right-0{right:0}
-@font-face{font-family:'UHCSans';src:url("https://www.uhc.com/etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-Regular.woff");font-weight:400;font-style:normal}
+@font-face{font-family:'UHCSans';src:url("UHCSans-Regular.woff");font-weight:400;font-style:normal}
+@font-face{font-family:'UHCSans';src:url("UHCSans-Bold.woff");font-weight:700;font-style:normal}
 .aem-Grid{display:block;width:100%;max-width:calc(100% + 20px)}
 .aem-Grid::before,.aem-Grid::after{display:table;content:' '}
 .aem-Grid::after{clear:both}
