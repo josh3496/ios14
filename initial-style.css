@@ -4,26 +4,7 @@
 .flex-center{display:flex;-ms-display:flex;-moz-display:flex;-webkit-display:flex;align-items:center;-ms-align-items:center;-moz-align-items:center;-webkit-align-items:center}
 .left-0{left:0}
 .right-0{right:0}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-Regular.woff");font-weight:400;font-style:normal}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-Italic.woff");font-weight:normal;font-style:italic}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-Medium.woff");font-weight:500;font-style:normal}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-MediumItalic.woff");font-weight:500;font-style:italic}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-SemiBold.woff");font-weight:600;font-style:normal}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-SemiBoldItalic.woff");font-weight:600;font-style:italic}
 @font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-Bold.woff");font-weight:700;font-style:normal}
-@font-face{font-family:'UHCSans';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSans-BoldItalic.woff");font-weight:700;font-style:italic}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-Bold.woff");font-weight:700;font-style:normal}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-BoldItalic.woff");font-weight:700;font-style:italic}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-Semibold.woff");font-weight:600;font-style:normal}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-SemiboldItalic.woff");font-weight:600;font-style:italic}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-Regular.woff");font-weight:400;font-style:normal}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-Italic.woff");font-weight:normal;font-style:italic}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-Light.woff");font-weight:300;font-style:normal}
-@font-face{font-family:'UHCSerifHeadline';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifHeadlineWeb-LightItalic.woff");font-weight:300;font-style:italic}
-@font-face{font-family:'UHCSerif';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifTextWeb-Regular.woff");font-weight:400;font-style:normal}
-@font-face{font-family:'UHCSerif';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifTextWeb-RegularItalic.woff");font-weight:400;font-style:italic}
-@font-face{font-family:'UHCSerif';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifTextWeb-Semibold.woff");font-weight:600;font-style:normal}
-@font-face{font-family:'UHCSerif';src:url("../../../etc.clientlibs/uhcfoundation/clientlibs/clientlib-initial/resources/fonts/UHCSerifTextWeb-SemiboldItalic.woff");font-weight:600;font-style:italic}
 .aem-Grid{display:block;width:100%;max-width:calc(100% + 20px)}
 .aem-Grid::before,.aem-Grid::after{display:table;content:' '}
 .aem-Grid::after{clear:both}
