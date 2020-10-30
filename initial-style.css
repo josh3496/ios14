@@ -4,8 +4,8 @@
 .flex-center{display:flex;-ms-display:flex;-moz-display:flex;-webkit-display:flex;align-items:center;-ms-align-items:center;-moz-align-items:center;-webkit-align-items:center}
 .left-0{left:0}
 .right-0{right:0}
-@font-face{font-family:'UHCSans';src:local('Helvetica'),local('Arial'),url("UHCSans-Regular.woff") format('woff');font-weight:400;font-style:normal}
-@font-face{font-family:'UHCSans';src:local('Helvetica'),local('Arial'),url("UHCSans-Bold.woff") format('woff');font-weight:700;font-style:normal} 
+@font-face{font-family:'UHCSans';src:local('Helvetica'),local('Arial'),url("UHCSans-Regular.woff") format('woff');font-weight:400;font-style:normal;font-display:swap;}
+@font-face{font-family:'UHCSans';src:local('Helvetica'),local('Arial'),url("UHCSans-Bold.woff") format('woff');font-weight:700;font-style:normal;font-display:swap;} 
 /* @font-face{font-family:'UHCSans-Bold';src:url("UHC2020Sans-Bold.otf");font-weight:700;font-style:normal} */
 .aem-Grid{display:block;width:100%;max-width:calc(100% + 20px)}
 .aem-Grid::before,.aem-Grid::after{display:table;content:' '}
